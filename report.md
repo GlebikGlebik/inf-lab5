@@ -1,7 +1,7 @@
 ### Отчет о лабораторной работе №5
----
+
 ## Задача №1
----
+
 1. Сначала создаем pre-commit файл в директории .git/hooks
 
 ![Создаем pre-commit и делаем файл исполняемым ](https://github.com/user-attachments/assets/8bcf520e-be80-4d66-8b99-e5db133eca8c)
@@ -18,9 +18,7 @@
 
 ![проверка2 (файл не проходит тест) ](https://github.com/user-attachments/assets/e6ce439e-d4a6-4e04-955f-3dfe9b1492dc)
 
----
 ## Задача №2
----
 
 1. Сначала инициализируем git flow 
 
@@ -58,6 +56,6 @@
 
 ![Слит хотфикс ](https://github.com/user-attachments/assets/2e4c8a29-50c1-4dd2-8198-c04e16a0fb2f)
 
-
+На этом работа завершена.
 
 
